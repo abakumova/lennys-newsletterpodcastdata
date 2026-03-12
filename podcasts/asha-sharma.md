@@ -6,7 +6,7 @@ guest: "Asha Sharma"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=J9UWaltU-7Q"
 video_id: "J9UWaltU-7Q"
-description: "Enterpret —Transform customer feedback into product growth"
+description: "An overview of products as organisms, the death of org charts, and why agents will outnumber employees by 2026, covering AI product work, product design, and engineering tradeoffs."
 word_count: 10684
 ---
 

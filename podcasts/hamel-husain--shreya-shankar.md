@@ -6,7 +6,7 @@ guest: "Hamel Husain & Shreya Shankar"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=BsWxPI9UM4c"
 video_id: "BsWxPI9UM4c"
-description: "( 16:51 ) → Always start with error analysis (don’t jump into writing evals) → Before writing a single eval, Hamel kicks off by manually reviewing real user traces to uncover upstream issues and patterns."
+description: "An examination of Why AI evals are the hottest new skill for product builders, covering AI product work, product design, and measurement and analysis."
 word_count: 19553
 ---
 

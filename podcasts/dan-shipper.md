@@ -6,7 +6,7 @@ guest: "Dan Shipper"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=crMrVozp_h8"
 video_id: "crMrVozp_h8"
-description: "CodeRabbit —Cut code review time and bugs in half. Instantly."
+description: "An overview of 5 products, 7-figure revenue, 100% AI-written code, covering AI product work, engineering tradeoffs, and product design."
 word_count: 19059
 ---
 

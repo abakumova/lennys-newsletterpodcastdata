@@ -6,7 +6,7 @@ guest: "Brendan Foody"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=ja6fWTDPQl4"
 video_id: "ja6fWTDPQl4"
-description: "( 05:38 ) → Why we’re entering the “era of evals”: Why evaluations aren’t just technical benchmarks, but the new PRDs and even the sales collateral for AI companies"
+description: "An examination of Why experts writing AI evals is creating the fastest-growing companies in history, covering AI product work, product design, and strategic decision-making."
 word_count: 12086
 ---
 

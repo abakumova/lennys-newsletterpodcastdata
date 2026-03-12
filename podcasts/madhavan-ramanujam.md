@@ -6,7 +6,7 @@ guest: "Madhavan Ramanujam"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=NR85H55eYkM"
 video_id: "NR85H55eYkM"
-description: "Enterpret —Transform customer feedback into product growth"
+description: "An overview of lessons from 400+ companies and 50 unicorns, covering pricing decisions, strategic decision-making, and product design."
 word_count: 19317
 ---
 

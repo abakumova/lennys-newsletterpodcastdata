@@ -6,7 +6,7 @@ guest: "Peter Deng"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=8TpakBfsmcQ"
 video_id: "8TpakBfsmcQ"
-description: "Paragon —Ship every SaaS integration your customers want"
+description: "An overview of the quiet architect behind the world’s most popular products, covering AI product work, product design, and team leadership."
 word_count: 22640
 ---
 

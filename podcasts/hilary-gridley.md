@@ -6,7 +6,7 @@ guest: "Hilary Gridley"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=xm5QAzAlqEY"
 video_id: "xm5QAzAlqEY"
-description: "WorkOS —Modern identity platform for B2B SaaS, free up to 1 million MAUs"
+description: "A practical guide to building a team that can “take a punch”: A playbook for building resilient, high-performing teams, covering team leadership, product design, and career development."
 word_count: 23016
 ---
 

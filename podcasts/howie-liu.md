@@ -6,7 +6,7 @@ guest: "Howie Liu"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=GT0jtVjRy2E"
 video_id: "GT0jtVjRy2E"
-description: "( 08:07 ) → CEOs should become “IC CEOs” — leaders who roll up their sleeves and engage directly with building, coding, and experimenting"
+description: "An overview of how we restructured Airtable’s entire org for AI, covering AI product work, product design, and strategic decision-making."
 word_count: 17980
 ---
 

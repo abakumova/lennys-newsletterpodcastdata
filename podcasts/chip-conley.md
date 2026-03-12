@@ -6,7 +6,7 @@ guest: "Chip Conley"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=R5_ypwiRIyo"
 video_id: "R5_ypwiRIyo"
-description: "Great Question —Empower everyone to run great research"
+description: "An overview of brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school, covering team leadership, product design, and startup building."
 word_count: 13744
 ---
 

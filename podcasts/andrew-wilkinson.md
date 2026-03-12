@@ -6,7 +6,7 @@ guest: "Andrew Wilkinson"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=VxAwUb86MUE"
 video_id: "VxAwUb86MUE"
-description: "Enterpret —Transform customer feedback into product growth"
+description: "An overview of i’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea., covering product design, startup building, and AI product work."
 word_count: 16595
 ---
 

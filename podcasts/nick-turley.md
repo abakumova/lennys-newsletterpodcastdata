@@ -6,7 +6,7 @@ guest: "Nick Turley"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=ixY2PvQJ0To"
 video_id: "ixY2PvQJ0To"
-description: "Orkes —The enterprise platform for reliable applications and agentic workflows"
+description: "An overview of the fastest-growing product in history, covering AI product work, product design, and go-to-market execution."
 word_count: 19140
 ---
 

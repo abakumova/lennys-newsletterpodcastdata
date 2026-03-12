@@ -6,7 +6,7 @@ guest: "Bret Taylor"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=qImgGtnNbx0"
 video_id: "qImgGtnNbx0"
-description: "CodeRabbit —Cut code review time and bugs in half. Instantly."
+description: "An overview of he saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor on the future of careers, coding, agents, and more, covering product design, team leadership, and product strategy and execution."
 word_count: 16513
 ---
 

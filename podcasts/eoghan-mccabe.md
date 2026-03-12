@@ -6,7 +6,7 @@ guest: "Eoghan McCabe"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=0_opWSfmN8M"
 video_id: "0_opWSfmN8M"
-description: "Great Question —Empower everyone to run great research."
+description: "An overview of how Intercom rose from the ashes by betting everything on AI, covering AI product work, pricing decisions, and product design."
 word_count: 13585
 ---
 

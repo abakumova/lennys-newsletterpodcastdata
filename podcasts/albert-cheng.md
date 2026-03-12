@@ -6,7 +6,7 @@ guest: "Albert Cheng"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=2BKmNmnEj9w"
 video_id: "2BKmNmnEj9w"
-description: "Jira Product Discovery —Confidence to build the right thing"
+description: "A practical guide to finding hidden growth opportunities in your product, covering growth systems, measurement and analysis, and product design."
 word_count: 17085
 ---
 

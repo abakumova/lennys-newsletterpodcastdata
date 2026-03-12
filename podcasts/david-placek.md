@@ -6,7 +6,7 @@ guest: "David Placek"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=adyIaTopO6g"
 video_id: "adyIaTopO6g"
-description: "WorkOS —Modern identity platform for B2B SaaS, free up to 1 million MAUs"
+description: "An overview of naming expert shares the process behind creating billion-dollar brand names like Azure, Vercel, Windsurf, Sonos, Blackberry, and Impossible Burger, covering strategic decision-making, team leadership, and product design."
 word_count: 13488
 ---
 

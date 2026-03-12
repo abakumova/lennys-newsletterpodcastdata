@@ -6,7 +6,7 @@ guest: "Sander Schulhoff"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=eKuFqQKYRrA"
 video_id: "eKuFqQKYRrA"
-description: "Stripe —Helping companies of all sizes grow revenue"
+description: "An overview of What works and what doesn’t, covering AI product work, engineering tradeoffs, and team leadership."
 word_count: 17352
 ---
 

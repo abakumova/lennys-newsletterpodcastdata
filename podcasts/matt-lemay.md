@@ -6,7 +6,7 @@ guest: "Matt LeMay"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=ts9ZvlkeWGs"
 video_id: "ts9ZvlkeWGs"
-description: "Enterpret —Transform customer feedback into product growth"
+description: "An overview of the one question that saves product careers, covering team leadership, product design, and product strategy and execution."
 word_count: 17480
 ---
 
