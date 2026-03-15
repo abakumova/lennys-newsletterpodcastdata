@@ -24,7 +24,7 @@ This repo is the public starter pack with a limited number of transcripts and po
 2. If you prefer a ZIP instead of cloning, sign in at [https://www.lennysdata.com](https://www.lennysdata.com) and download it there.
 3. If you want the full archive and MCP access, sign in at [https://www.lennysdata.com](https://www.lennysdata.com).
 
-## Projects built with this dataset
+## A few example projects built with this dataset
 
 - [Lenny Playbook](https://lilys.ai/collections/141200?s=1) by LilysAI: turns podcast transcripts into structured notes, visual summaries, and a chat interface.
 - [Learn from Lenny](https://x.com/learnfromlenny) by [@IamAdiG](https://x.com/IamAdiG): an AI agent on X that answers with product advice grounded in the podcast archive.
@@ -34,7 +34,7 @@ This repo is the public starter pack with a limited number of transcripts and po
 - [Lenny's Advice Arena](https://lennysadvicearena.lovable.app/): an interactive way to explore product advice from the archive.
 - [Lenny Gallery](https://lennygallery.manus.space/) by Alan Chan: visual infographic summaries of standout episodes.
 - [Lenny Antimemes](https://lenny.antimeme.co) by [@antimemetic_](https://x.com/antimemetic_): highlights important ideas from guests that are easy to miss but worth remembering.
-- [Tiny Stakeholders](https://www.tinystakeholders.com/): applies product-management lessons from the podcast archive to parenting.
+- [Tiny Stakeholders](https://www.tinystakeholders.com/) by [Ondrej Machart](https://www.linkedin.com/in/ondrejmachart/): applies product-management lessons from the podcast archive to parenting.
 
 ## Want the full dataset?
 
