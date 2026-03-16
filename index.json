@@ -1,7 +1,31 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-03-16T18:41:36.826496+00:00",
+  "generated_at": "2026-03-16T19:05:11.074665+00:00",
   "podcasts": [
+    {
+      "title": "Jenny Wen",
+      "filename": "podcasts/jenny-wen.md",
+      "word_count": 15002,
+      "date": "2026-03-01",
+      "description": "It's not just designers who are feeling like, \"Oh yeah, we have to keep up with engineers.\" I think even engineers are like, \"How do we keep up with ourselves?\", covering product design, AI product work, and engineering tradeoffs.",
+      "guest": "Jenny Wen"
+    },
+    {
+      "title": "Jeetu Patel",
+      "filename": "podcasts/jeetu-patel.md",
+      "word_count": 16199,
+      "date": "2026-02-26",
+      "description": "And the reason we pulled this thing together, the goal was, what is happening in the industry and how can we help customers make sure that they can make the most of it, covering AI product work, team leadership, and product design.",
+      "guest": "Jeetu Patel"
+    },
+    {
+      "title": "Boris Cherny",
+      "filename": "podcasts/boris-cherny.md",
+      "word_count": 19327,
+      "date": "2026-02-19",
+      "description": "This is the world now.\" What's the next big shift to how software is written that either your team is already operating in or you think will head towards, covering engineering tradeoffs, product design, and AI product work.",
+      "guest": "Boris Cherny"
+    },
     {
       "title": "Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
       "filename": "podcasts/brian-halligan.md",
@@ -9,6 +33,14 @@
       "date": "2026-02-15",
       "description": "Brian Halligan co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia’s fastest-growing founders as their in-house CEO coach.",
       "guest": "Brian Halligan"
+    },
+    {
+      "title": "Sherwin Wu V2",
+      "filename": "podcasts/sherwin-wu-v2.md",
+      "word_count": 15667,
+      "date": "2026-02-12",
+      "description": "If you talk to a lot of engineers, the thing that annoys them the most is after you've written your beautiful code, how do you get it into production, covering engineering tradeoffs, AI product work, and team leadership.",
+      "guest": "Sherwin Wu V2"
     },
     {
       "title": "The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)",
@@ -67,6 +99,14 @@
       "guest": "Alexander Embiricos"
     },
     {
+      "title": "Aishwarya Naresh Reganti + Kiriti Badam",
+      "filename": "podcasts/aishwarya-naresh-reganti--kiriti-badam.md",
+      "word_count": 16386,
+      "date": "2026-01-11",
+      "description": "But if you make a bunch of practitioners sit together and ask them, \"Is it important to build an actionable feedback loop for AI products?\" I think all of them will agree, covering AI product work, product design, and team leadership.",
+      "guest": "Aishwarya Naresh Reganti + Kiriti Badam"
+    },
+    {
       "title": "The high-growth handbook: Molly Graham’s frameworks for leading through chaos, change, and scale",
       "filename": "podcasts/molly-graham.md",
       "word_count": 17885,
@@ -89,6 +129,14 @@
       "date": "2025-12-28",
       "description": "Matt MacInnis is the chief product officer and former longtime COO at Rippling, a unified workforce management platform valued at over $16 billion.",
       "guest": "Matt MacInnis"
+    },
+    {
+      "title": "Elena Verna 4.0",
+      "filename": "podcasts/elena-verna-40.md",
+      "word_count": 17458,
+      "date": "2025-12-18",
+      "description": "Who would've thought that a head of growth, who is traditionally seen as data, metrics, spreadsheets, drive KPIs is like, \"Okay, how do we make this more lovable, covering growth systems, product design, and pricing decisions.",
+      "guest": "Elena Verna 4.0"
     },
     {
       "title": "The 100-person AI lab that became Anthropic and Google's secret weapon | Edwin Chen (Surge AI)",
@@ -331,6 +379,14 @@
       "guest": "Madhavan Ramanujam"
     },
     {
+      "title": "Benjamin Mann",
+      "filename": "podcasts/benjamin-mann.md",
+      "word_count": 13064,
+      "date": "2025-07-20",
+      "description": "Ultimately, people think about this as probably going to hit a wall because if the model isn't good enough to see its own mistakes, then how could it improve, covering AI product work, product design, and engineering tradeoffs.",
+      "guest": "Benjamin Mann"
+    },
+    {
       "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO of Every)",
       "filename": "podcasts/dan-shipper.md",
       "word_count": 19059,
@@ -345,62 +401,6 @@
       "date": "2025-07-03",
       "description": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea., covering product design, startup building, and AI product work.",
       "guest": "Andrew Wilkinson"
-    },
-    {
-      "title": "Naming expert shares the process behind creating billion-dollar brand names like Azure, Vercel, Windsurf, Sonos, Blackberry, and Impossible Burger | David Placek (Lexicon Branding)",
-      "filename": "podcasts/david-placek.md",
-      "word_count": 13488,
-      "date": "2025-06-29",
-      "description": "Naming expert shares the process behind creating billion-dollar brand names like Azure, Vercel, Windsurf, Sonos, Blackberry, and Impossible Burger, covering strategic decision-making, team leadership, and product design.",
-      "guest": "David Placek"
-    },
-    {
-      "title": "From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products | Peter Deng",
-      "filename": "podcasts/peter-deng.md",
-      "word_count": 22640,
-      "date": "2025-06-22",
-      "description": "The quiet architect behind the world’s most popular products, covering AI product work, product design, and team leadership.",
-      "guest": "Peter Deng"
-    },
-    {
-      "title": "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt)",
-      "filename": "podcasts/sander-schulhoff.md",
-      "word_count": 17352,
-      "date": "2025-06-19",
-      "description": "What works and what doesn’t, covering AI product work, engineering tradeoffs, and team leadership.",
-      "guest": "Sander Schulhoff"
-    },
-    {
-      "title": "How to build a team that can “take a punch”: A playbook for building resilient, high-performing teams | Hilary Gridley (Head of Core Product, Whoop)",
-      "filename": "podcasts/hilary-gridley.md",
-      "word_count": 23016,
-      "date": "2025-06-15",
-      "description": "A playbook for building resilient, high-performing teams, covering team leadership, product design, and career development.",
-      "guest": "Hilary Gridley"
-    },
-    {
-      "title": "35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley",
-      "filename": "podcasts/bob-baxley.md",
-      "word_count": 21888,
-      "date": "2025-06-12",
-      "description": "35 years of product design wisdom from Apple, Disney, Pinterest, and beyond, covering product design, team leadership, and startup building.",
-      "guest": "Bob Baxley"
-    },
-    {
-      "title": "Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram)",
-      "filename": "podcasts/mike-krieger.md",
-      "word_count": 13926,
-      "date": "2025-06-05",
-      "description": "Anthropic’s CPO on what comes next, covering AI product work, product design, and engineering tradeoffs.",
-      "guest": "Mike Krieger"
-    },
-    {
-      "title": "Growth tactics from OpenAI and Stripe’s first marketer | Krithika Shankarraman",
-      "filename": "podcasts/krithika-shankarraman.md",
-      "word_count": 14206,
-      "date": "2025-05-25",
-      "description": "Growth tactics from OpenAI and Stripe’s first marketer, covering strategic decision-making, AI product work, and B2B products.",
-      "guest": "Krithika Shankarraman"
     }
   ],
   "newsletters": [
