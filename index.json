@@ -1,7 +1,15 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-03-19T16:44:53.612143+00:00",
+  "generated_at": "2026-03-25T16:50:40.437788+00:00",
   "podcasts": [
+    {
+      "title": "The art of influence: The single most important skill that AI can’t replace | Jessica Fain (Webflow, ex-Slack)",
+      "filename": "podcasts/jessica-fain.md",
+      "word_count": 17445,
+      "date": "2026-03-22",
+      "description": "The single most important skill that AI can’t replace, covering team leadership, product design, and product strategy and execution.",
+      "guest": "Jessica Fain"
+    },
     {
       "title": "Jenny Wen",
       "filename": "podcasts/jenny-wen.md",
@@ -393,14 +401,6 @@
       "date": "2025-07-17",
       "description": "5 products, 7-figure revenue, 100% AI-written code, covering AI product work, engineering tradeoffs, and product design.",
       "guest": "Dan Shipper"
-    },
-    {
-      "title": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson (co‑founder of Tiny)",
-      "filename": "podcasts/andrew-wilkinson.md",
-      "word_count": 16595,
-      "date": "2025-07-03",
-      "description": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea., covering product design, startup building, and AI product work.",
-      "guest": "Andrew Wilkinson"
     }
   ],
   "newsletters": [
